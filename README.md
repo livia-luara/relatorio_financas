@@ -1,5 +1,5 @@
 # Desafio de Projeto
-Desafio de projeto com PowerBI, com os dados financeiros devidamente tratados e expostos em gráficos com os visuais especificados. Versão em PDF e PBIX para a visualização completa com as interatividades disponíveis.
+Desafio de projeto com PowerBI, com os dados financeiros fictícios devidamente tratados e expostos em gráficos com os visuais especificados. Versão em PDF e PBIX para a visualização completa com as interatividades disponíveis.
 
 ## Primeira Página
 -> Contém Relatório de Vendas considerando Produtos e Segmentos.
